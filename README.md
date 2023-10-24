@@ -8,6 +8,8 @@
 - Dayana Franco
 - Wilbert Vong
 
+---
+
 **ID del proyecto en GCP**: proyecto-final-big-data-400117
 
 *Los Notebooks de ETL y ML están en Notebooks Administrados de Vertex AI. Especificar la Región europe-west1 (Belgium) para poder tener acceso.*

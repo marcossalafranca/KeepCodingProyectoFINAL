@@ -9,7 +9,7 @@ proyecto-final-big-data-400117
 
 ## Notebooks del proyecto
 
-[Pipeline de ETL](https://colab.research.google.com/drive/1_vJteNhvBnaPKgWufOWZ22y5E3SCZ8aG?usp=sharing)
+<a href="https://colab.research.google.com/drive/1_vJteNhvBnaPKgWufOWZ22y5E3SCZ8aG?usp=sharing" target="_blank">Pipeline de ETL</a>
 
 [Notebook de ML - Predicción de aceptación de productos](https://colab.research.google.com/drive/1IYZ5_tvi5MMOiA2puHW9QdwonANKFdif?usp=sharing)
 

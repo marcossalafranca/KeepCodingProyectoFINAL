@@ -1,6 +1,6 @@
 # KeepCodingProyectoFINAL - Data Friends
 
-## ID del proyecto en GCP: proyecto-final-big-data-400117
+** ID del proyecto en GCP**: proyecto-final-big-data-400117
 
 *Los Notebooks de ETL y ML están en Notebooks Administrados y especificar la Región europe-west1 (Belgium)*
 

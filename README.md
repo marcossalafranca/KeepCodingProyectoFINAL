@@ -26,10 +26,10 @@
 
 ## Notebooks aplicando datos nuevos a los modelos de ML
 
-[ML - Predicción de aceptación de productos por los clientes con datos nuevos](https://colab.research.google.com/drive/1WJQHoAG-d__LCIIf339Y-Tz8TDvZB499?usp=sharing)**
+[ML - Predicción de aceptación de productos por los clientes con datos nuevos](https://colab.research.google.com/drive/1WJQHoAG-d__LCIIf339Y-Tz8TDvZB499?usp=sharing)
 
 ---
 
 [*Notebook para crear datos nuevos de prueba para el modelo ML - Predicción de precios de productos para los clientes*](https://colab.research.google.com/drive/1arQrh2KRvA9922AVKnXs-Bm181MacxtQ?usp=sharing)
 
-[ML - Predicción de precios de productos para los clientes con datos nuevos](https://colab.research.google.com/drive/10G0_CF8YroIACVHUblxAuo6TTFeT_xNH?usp=sharing)**
+[ML - Predicción de precios de productos para los clientes con datos nuevos](https://colab.research.google.com/drive/10G0_CF8YroIACVHUblxAuo6TTFeT_xNH?usp=sharing)
